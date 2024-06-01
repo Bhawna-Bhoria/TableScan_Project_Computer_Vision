@@ -40,21 +40,6 @@ DATASET (ANNOTATED TABLES):- https://drive.google.com/file/d/1LkmuDy-QMdginpbi1Y
 
 
 
-
-## Authors
-
-- [@Ashish-aman](https://www.github.com/Ashish-aman)
-
-- [@97shanu](https://www.github.com/@97shanu)
-
-
-## 🔗 Links
-
-- [@Ashish-aman](https://www.github.com/Ashish-aman)
-
-- [@97shanu](https://www.github.com/@97shanu)
-## License
-
 [MIT](https://github.com/ColfaxResearch/YOLO-Object-Detection/blob/master/LICENSE)
 
 MIT License
